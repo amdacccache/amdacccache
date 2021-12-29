@@ -1,6 +1,6 @@
 
 <h1 align="left" id="amdacccache-title">:wave: Hi there! I'm Anna</h1>
-<h3 align="left">I am a Software Developer at Nordstone </h3>
+<h3 align="left">I am a computer science graduate student student specializing in data science and artificial intelligence!</h3>
 
 <a href="#amdacccache-title">
   <img src="https://github-readme-stats.vercel.app/api?username=amdacccache&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Anna Daccache" align="right" />
@@ -8,8 +8,7 @@
 
 - :office: &nbsp;I'm currently studying at **Northeastern University**
 - :seedling: &nbsp;I’m currently learning **[D3]**
-- :writing_hand: &nbsp;I regulary write article on my **[blog]**
-- :speech_balloon: &nbsp;I like to talk about **Design Accessibility** and **Data Science**
+- :speech_balloon: &nbsp;I like to talk about **Design Accessibility** and **Tech Policy**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
 
@@ -17,7 +16,7 @@
 
 <h2 align="left" id="amdacccache-tech">Favorite Tech</h2>
 
-> Tools, languages, and other things that I like to work with.
+> Tools, languages, and other platforms that I work with.
 
 
 <table align="center">
@@ -35,6 +34,72 @@
       <br>Python
     </td>
     <td align="center" width="96">
+      <a href="#amdaccache-tech" >
+        <img src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center"  width="96">
+      <a href="#amdaccache-tech">
+        <img src="https://www.pngall.com/wp-content/uploads/2017/05/Copyright-Symbol-R-Free-Download-PNG.png" width="48" height="48" alt="R" />
+      </a>
+      <br>R
+    </td>
+    <td align="center" width="96"> 
+      <a href="#amdaccache-tech" >
+        <img src="https://cloudnesil.com/wp-content/uploads/2018/12/apachesparklogo.png" width="48" height="48" alt="Spark" />
+      </a>
+      <br>Apache Spark
+    </td>
+  </tr>
+  
+  <tr>
+   
+    <td align="center"  width="96">
+      <a href="#amdaccache-tech">
+        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#amdaccache-tech">
+        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center"  width="96">
+      <a href="#amdaccache-tech">
+        <img src="https://www.marketingmilk.com/wp-content/uploads/2020/06/google-bigquery.png" width="48" height="48" alt="BigQuery" />
+      </a>
+      <br>Google BigQuery
+    </td>
+    <td align="center" width="96"> 
+      <a href="#amdaccache-tech" >
+        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#amdaccache-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+  </tr>
+   <tr>
+    <td align="center" width="96">
+      <a href="#amdaccache-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+     <td align="center" width="96"> 
+      <a href="#amdaccache-tech" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+     <td align="center" width="96">
       <a href="#amdaccache-tech">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
       </a>
@@ -51,101 +116,6 @@
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
       </a>
       <br>Node JS
-    </td>
-     <td align="center" width="96"> 
-      <a href="#amdaccache-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
-      </a>
-      <br>MongoDB
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#amdaccache-tech" >
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcloudnesil.com%2F2018%2F12%2F14%2Fapache-spark%2F&psig=AOvVaw0xf59tv4k_MMCNQB9HWzHb&ust=1640901741295000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMD-hr-BivUCFQAAAAAdAAAAABAD" width="48" height="48" alt="C" />
-      </a>
-      <br>Apache Spark
-    </td>
-    <td align="center" width="96">
-      <a href="#amdaccache-tech" >
-        <img src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center"  width="96">
-      <a href="#amdaccache-tech">
-        <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />
-      </a>
-      <br>Gatsby
-    </td>
-    <td align="center"  width="96">
-      <a href="#amdaccache-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1024px-Electron_Software_Framework_Logo.svg.png" width="48" height="48" alt="Electron" />
-      </a>
-      <br>Electron
-    </td>
-    <td align="center" width="96">
-      <a href="#amdaccache-tech">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center"  width="96">
-      <a href="#amdaccache-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#amdaccache-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="48" height="48" alt="GraphQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="#amdaccache-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#amdaccache-tech" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-      <a href="#amdaccache-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
-    </td>
-    <td align="center" width="96">
-      <a href="#amdaccache-tech">
-        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="48" height="48" alt="Bash" />
-      </a>
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-      <a href="#amdaccache-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="45" height="45" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <a href="#amdaccache-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="Tensorflow" />
-      </a>
-      <br>Tensorflow
-    </td>
-     <td align="center" width="96"> 
-      <a href="#amdaccache-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br>Redux
     </td>
   </tr>
     
