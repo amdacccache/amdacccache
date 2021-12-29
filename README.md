@@ -11,6 +11,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Design Accessibility** and **Tech Policy**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Follow me on **[Twitter]**
+- :smile: &nbsp;Pronouns: **They/She**
 
 <br>
 
@@ -125,6 +126,8 @@
 [twitter]: https://twitter.com/annadaccache97 "Twitter"
 [D3]: https://d3js.org/ "D3"
 
+
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=amdacccache&theme=github)](https://github.com/amdacccache)
 
 
 
