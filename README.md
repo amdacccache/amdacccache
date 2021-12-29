@@ -36,7 +36,7 @@
     </td>
     <td align="center" width="96">
       <a href="#amdaccache-tech" >
-        <img src="http://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" width="48" height="48" alt="Java" />
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-512.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
