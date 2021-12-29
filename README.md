@@ -1,5 +1,5 @@
 
-<h1 align="left" id="amdacccache-title">:wave: Hi there! I'm Anna</h1>
+<h1 align="left" id="amdacccache-title"> Hi I'm Anna!</h1>
 <h3 align="left">I am a computer science graduate student student specializing in data science and artificial intelligence!</h3>
 
 <a href="#amdacccache-title">
@@ -127,6 +127,7 @@
 [D3]: https://d3js.org/ "D3"
 
 <br>
+.....
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=amdacccache&theme=github)](https://github.com/amdacccache)
 
