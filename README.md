@@ -6,11 +6,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amdacccache&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Anna Daccache" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently studying at **Northeastern University**
+- :office: &nbsp;I'm studying at **Northeastern University**
 - :seedling: &nbsp;I’m currently learning **[D3]**
 - :speech_balloon: &nbsp;I like to talk about **Design Accessibility** and **Tech Policy**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **[Twitter]**
+- :bird: &nbsp;Follow me on **[Twitter]**
 
 <br>
 
@@ -54,7 +54,6 @@
   </tr>
   
   <tr>
-   
     <td align="center"  width="96">
       <a href="#amdaccache-tech">
         <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="48" height="48" alt="MySQL" />
