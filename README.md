@@ -19,6 +19,7 @@
 
 > Tools, languages, and other platforms that I work with.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amdacccache&layout=compact)](https://github.com/amdacccache/github-readme-stats)
 
 <table align="center">
   <tr>
