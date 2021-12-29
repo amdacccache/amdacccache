@@ -8,7 +8,7 @@
 
 - :office: &nbsp;I'm studying at **Northeastern University**
 - :seedling: &nbsp;I’m currently learning **[D3]**
-- :speech_balloon: &nbsp;I like to talk about **Accessibility** and also **Health Tech**
+- :speech_balloon: &nbsp;I like to talk about **Accessibility** and **Health Tech**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Follow me on **[Twitter]**
 
