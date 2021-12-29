@@ -127,7 +127,7 @@
 [D3]: https://d3js.org/ "D3"
 
 <br>
-.....
+*****
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=amdacccache&theme=github)](https://github.com/amdacccache)
 
