@@ -3,7 +3,7 @@
 <h3 align="left">I am a computer science graduate student student specializing in data science and artificial intelligence!</h3>
 
 <a href="#amdacccache-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=amdacccache&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Anna Daccache" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amdacccache&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="Anna Daccache" align="right" />
 </a>
 
 - :office: &nbsp;I'm studying at **Northeastern University**
