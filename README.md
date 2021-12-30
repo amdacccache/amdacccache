@@ -57,7 +57,7 @@
   <tr>
     <td align="center"  width="96">
       <a href="#amdaccache-tech">
-        <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="48" height="48" alt="MySQL" />
+        <img src="https://cdn-icons-png.flaticon.com/512/528/528260.png" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
@@ -75,7 +75,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#amdaccache-tech" >
-        <img src="https://i.ibb.co/QXHcMvM/58481021cef1014c0b5e494b.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" width="48" height="48" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
