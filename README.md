@@ -48,7 +48,7 @@
     </td>
     <td align="center" width="96"> 
       <a href="#amdaccache-tech" >
-        <img src="https://cloudnesil.com/wp-content/uploads/2018/12/apachesparklogo.png" width="48" height="48" alt="Spark" />
+        <img src="https://symbols-electrical.getvecta.com/stencil_74/36_apache-spark-icon.79831ad2ea.png" width="48" height="48" alt="Spark" />
       </a>
       <br>Apache Spark
     </td>
