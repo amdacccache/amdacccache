@@ -7,7 +7,7 @@
 </a>
 
 - :office: &nbsp;I'm studying at **Northeastern University**
-- :seedling: &nbsp;I’m currently learning **[D3]**
+- :seedling: &nbsp;I’m currently learning **[C++]**
 - :speech_balloon: &nbsp;I like to talk about **Accessibility Design** and **Health Tech**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Follow me on **[Twitter]**
@@ -124,7 +124,7 @@
 
 [linkedin]: https://www.linkedin.com/in/annadaccache "LinkedIn"
 [twitter]: https://twitter.com/annadaccache97 "Twitter"
-[D3]: https://d3js.org/ "D3"
+[C++]: https://cplusplus.com/ "C++"
 
 <br>
 
