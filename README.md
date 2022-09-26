@@ -1,6 +1,6 @@
 
 <h1 align="left" id="amdacccache-title"> Hi I'm Anna!</h1>
-<h3 align="left">I am a computer science graduate student specializing in data science and artificial intelligence!</h3>
+<h3 align="left">I am a Solutions Architect passionate about democratizing technology and understanding the intersection of AI and healthcare!</h3>
 
 <a href="#amdacccache-title">
   <img src="https://github-readme-stats.vercel.app/api?username=amdacccache&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Anna Daccache" align="right" />
