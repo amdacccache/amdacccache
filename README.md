@@ -130,5 +130,5 @@
 
 ***
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=amdacccache&theme=redical)](https://github.com/amdacccache)
+<!--- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=amdacccache&theme=redical)](https://github.com/amdacccache) --->
 
