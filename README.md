@@ -6,9 +6,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=amdacccache&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Anna Daccache" align="right" />
 </a>
 
-- :office: &nbsp;I'm studying at **Northeastern University**
+- :office: &nbsp;I work at **NVIDIA**
 - :seedling: &nbsp;I’m currently learning **[C++]**
-- :speech_balloon: &nbsp;I like to talk about **Accessibility Design** and **Health Tech**
+- :speech_balloon: &nbsp;I like to talk about **AI Ethics** and **Health Tech**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Follow me on **[Twitter]**
 
