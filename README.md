@@ -10,7 +10,6 @@
 - :seedling: &nbsp;I’m currently learning **[C++]**
 - :speech_balloon: &nbsp;I like to talk about **AI Ethics** and **Health Tech**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Follow me on **[Twitter]**
 
 <br>
 
