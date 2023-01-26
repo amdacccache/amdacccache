@@ -74,9 +74,9 @@
     </td>
     <td align="center" width="96"> 
       <a href="#amdaccache-tech" >
-        <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-4-1175139.png" width="48" height="48" alt="Mongo DB" />
+        <img src="https://docs.rapids.ai/api/cudf/stable/_static/RAPIDS-logo-purple.png" width="48" height="48" alt="RAPIDS" />
       </a>
-      <br>MongoDB
+      <br>RAPIDS
     </td>
     <td align="center" width="96">
       <a href="#amdaccache-tech" >
