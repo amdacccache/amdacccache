@@ -94,7 +94,7 @@
     </td>
      <td align="center" width="96"> 
       <a href="#amdaccache-tech" >
-        <img src="https://assets.stickpng.com/images/629b450a95f79dc9fa7256f1.png" width="48" height="48" alt="Splunk" />
+        <img src="https://www.splunk.com/content/dam/splunk-blogs/images/2018/12/splunklogo.png" width="48" height="48" alt="Splunk" />
       </a>
       <br>Splunk
     </td>
