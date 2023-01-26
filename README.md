@@ -62,15 +62,15 @@
     </td>
     <td align="center" width="96">
       <a href="#amdaccache-tech">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
+        <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="48" height="48" alt="C++" />
       </a>
-      <br>Firebase
+      <br>C++
     </td>
     <td align="center"  width="96">
       <a href="#amdaccache-tech">
-        <img src="https://www.marketingmilk.com/wp-content/uploads/2020/06/google-bigquery.png" width="48" height="48" alt="BigQuery" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" width="48" height="48" alt="Bash" />
       </a>
-      <br>Google BigQuery
+      <br>Bash
     </td>
     <td align="center" width="96"> 
       <a href="#amdaccache-tech" >
@@ -94,9 +94,9 @@
     </td>
      <td align="center" width="96"> 
       <a href="#amdaccache-tech" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
+        <img src="https://assets.stickpng.com/images/629b450a95f79dc9fa7256f1.png" width="48" height="48" alt="Splunk" />
       </a>
-      <br>Redux
+      <br>Splunk
     </td>
      <td align="center" width="96">
       <a href="#amdaccache-tech">
