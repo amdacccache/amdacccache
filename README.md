@@ -4,7 +4,7 @@
 
 - :office: &nbsp;I work at **NVIDIA**
 - :seedling: &nbsp;I’m currently learning **Networking & Infra**
-- :speech_balloon: &nbsp;I like to talk about **AI Ethics** and **Health Tech**
+- :speech_balloon: &nbsp;I like to talk about **AI Ethics** and **GPU accelerating Data Science pipelines**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
