@@ -3,7 +3,7 @@
 <h3 align="left">I am a Solutions Architect passionate about democratizing technology and understanding the intersection of AI and healthcare!</h3>
 
 - :office: &nbsp;I work at **NVIDIA**
-- :seedling: &nbsp;I’m currently learning **[C++]**
+- :seedling: &nbsp;I’m currently learning **Networking & Infra**
 - :speech_balloon: &nbsp;I like to talk about **AI Ethics** and **Health Tech**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -119,7 +119,6 @@
 
 [linkedin]: https://www.linkedin.com/in/annadaccache "LinkedIn"
 [twitter]: https://twitter.com/annadaccache97 "Twitter"
-[C++]: https://cplusplus.com/ "C++"
 
 <br>
 
